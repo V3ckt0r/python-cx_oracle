@@ -6,5 +6,5 @@ This example code is just to demonstrate using cx_Oracle to connect to a Oracle 
 
 ######example 
 You will need to edit the files to make them specific to your site, but at the end you should be able to call the CGI via;
-http://<yourDomain>/start.py
+http://< yourDomain >/start.py
 
