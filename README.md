@@ -5,5 +5,6 @@ Simply configure your web server to serve start.py, this is a wrapper script tha
 This example code is just to demonstrate using cx_Oracle to connect to a Oracle database. In this example, once connected python runs an SQL query to get the table space size for all the tables within your database.
 
 ######example 
-www.example.com/start.py
+You will need to edit the files to make them specific to your site, but at the end you should be able to call the CGI via;
+http://<yourDomain>/start.py
 
